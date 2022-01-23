@@ -1,0 +1,7 @@
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\bin\Debug\clases.exe.config
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\bin\Debug\clases.exe
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\bin\Debug\clases.pdb
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\obj\Debug\clases.csproj.AssemblyReference.cache
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\obj\Debug\clases.exe
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\clases\clases\obj\Debug\clases.pdb

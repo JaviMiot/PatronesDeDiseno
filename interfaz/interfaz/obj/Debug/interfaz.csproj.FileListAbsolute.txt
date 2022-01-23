@@ -1,0 +1,7 @@
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\obj\Debug\interfaz.csproj.AssemblyReference.cache
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\obj\Debug\interfaz.csproj.CoreCompileInputs.cache
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\bin\Debug\interfaz.exe.config
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\bin\Debug\interfaz.exe
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\bin\Debug\interfaz.pdb
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\obj\Debug\interfaz.exe
+D:\Javi\Documents\01_Repositorio\08_PatronesDeDiseño\interfaz\interfaz\obj\Debug\interfaz.pdb
