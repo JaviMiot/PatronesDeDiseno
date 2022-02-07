@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace patronesDiseno.Repository
 {
-    interface IUnitOfWork
+    public interface IUnitOfWork
     {
+        public IRepository<Beer> Beers { get; }
+        public IRepository<Brand> Beers { get; }
+
+        public void Save();
     }
 }
