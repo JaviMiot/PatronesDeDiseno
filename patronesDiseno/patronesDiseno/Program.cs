@@ -1,4 +1,5 @@
-﻿using System;
+﻿using patronesDiseno.Strateg_y;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace patronesDiseno
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             var singleton = Singleton.Singleton.Instance;
 
             //var log = Singleton.Log.Instance;
@@ -24,6 +25,11 @@ namespace patronesDiseno
             log.save("b");
             log.save("cola");
 
+        */
+            var context = new Context(new CarStrategy());
+            context.Run();
+            context.strategy = new MotoStrategy();
+            context.Run();
             Console.ReadKey();
         }
     }

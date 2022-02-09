@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace patronesDiseno.Repository
 {
     public class UnitOfWork : IUnitOfWork
-    {
+    {/*
         private DesignPatternsContext _context;
         public IRepository<Beer> _beers;
         public IRepository<Beer> _brands;
@@ -27,6 +27,6 @@ namespace patronesDiseno.Repository
         public void Save()
         {
             _context.SaveChanges();
-        }
+        }*/
     }
 }

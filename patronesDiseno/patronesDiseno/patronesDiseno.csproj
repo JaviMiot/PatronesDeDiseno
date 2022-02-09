@@ -55,6 +55,10 @@
     <Compile Include="Singleton\Log.cs" />
     <Compile Include="Singleton\logWithConstructor.cs" />
     <Compile Include="Singleton\Singleton.cs" />
+    <Compile Include="Strateg%3by\CarStrategy.cs" />
+    <Compile Include="Strateg%3by\Context.cs" />
+    <Compile Include="Strateg%3by\IStrategy.cs" />
+    <Compile Include="Strateg%3by\MotoStrategy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
